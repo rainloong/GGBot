@@ -20,12 +20,9 @@ config = Config.parse_obj(global_config)
 
 weather = on_command("天气", rule=to_me(), aliases={"weather", "查天气"}, priority=10, block=True)
 
-async def get_img():
-    url = 'https://api.vvhan.com/api/ip'
-    img = requests.get(url)
-    return img
+
 
 @weather.handle()
 async def handle_function():
-    img=get_img()
-    await weather.send(MessageSegment.image(img))
+    url = 'https://api.vvhan.com/api/ip'
+    await weather.send(MessageSegment.image(url))
