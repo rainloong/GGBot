@@ -1,0 +1,39 @@
+{
+    "product": "G2 MINI",
+    "device": "g2mds",
+    "board": "g2mds",
+    "brand": "LGE",
+    "model": "LG-D618",
+    "wifi_ssid": "TP-LINK_NMJSV1",
+    "android_id": "QQ1D.200205.002",
+    "boot_id": "6649cada-dc29-cf01-2efb-dc63bd4390fe",
+    "proc_version": "Linux version 3.6.19-TsLvBuAK (android-build@29cf012efbdc.source.android.com)",
+    "mac_address": "66:49:CA:DA:DC:29",
+    "ip_address": [
+        188,
+        104,
+        148,
+        37
+    ],
+    "imei": "332495656914674",
+    "incremental": "3458727096",
+    "protocol": 2,
+    "display": "QQ1D.200205.002",
+    "finger_print": "LGE/G2 MINI/g2mds:10/QQ1D.200205.002/3458727096:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "sim_info": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "66:49:CA:DA:DC:29",
+    "apn": "wifi",
+    "version": {
+        "incremental": "3458727096",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "b5047b0129c81486c1ad0237f59ffdc0",
+    "vendor_name": "LGE",
+    "vendor_os_name": "android"
+}
