@@ -1,0 +1,67 @@
+[2023-10-13 11:00:37] [WARNING]: no sign server configured 
+[2023-10-13 11:00:37] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 11:00:39] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2023-10-13 11:01:39] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 11:05:24] [WARNING]: no sign server configured 
+[2023-10-13 11:05:24] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 11:05:25] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 11:07:38] [WARNING]: no sign server configured 
+[2023-10-13 11:07:38] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 11:07:38] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 11:15:33] [WARNING]: no sign server configured 
+[2023-10-13 11:15:33] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 11:15:34] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:12:58] [WARNING]: no sign server configured 
+[2023-10-13 14:12:58] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:12:59] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:16:24] [WARNING]: no sign server configured 
+[2023-10-13 14:16:24] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:16:26] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:18:48] [WARNING]: no sign server configured 
+[2023-10-13 14:18:48] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:18:49] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:19:44] [WARNING]: no sign server configured 
+[2023-10-13 14:19:44] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:19:45] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:20:56] [WARNING]: no sign server configured 
+[2023-10-13 14:20:56] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:20:57] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:24:20] [WARNING]: no sign server configured 
+[2023-10-13 14:24:20] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:24:21] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:26:24] [WARNING]: no sign server configured 
+[2023-10-13 14:26:24] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:26:25] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:27:10] [WARNING]: no sign server configured 
+[2023-10-13 14:27:10] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:27:11] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:28:09] [WARNING]: no sign server configured 
+[2023-10-13 14:28:09] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:28:11] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:28:46] [WARNING]: no sign server configured 
+[2023-10-13 14:28:46] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:28:47] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:30:34] [WARNING]: no sign server configured 
+[2023-10-13 14:30:34] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:30:35] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:31:32] [WARNING]: no sign server configured 
+[2023-10-13 14:31:32] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:31:33] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:32:44] [WARNING]: no sign server configured 
+[2023-10-13 14:32:44] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:32:45] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:33:26] [WARNING]: no sign server configured 
+[2023-10-13 14:33:26] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:33:27] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:34:27] [WARNING]: no sign server configured 
+[2023-10-13 14:34:27] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:34:28] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:35:22] [WARNING]: no sign server configured 
+[2023-10-13 14:35:22] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:35:23] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 14:35:58] [WARNING]: no sign server configured 
+[2023-10-13 14:35:58] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 14:35:59] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-13 15:06:58] [WARNING]: no sign server configured 
+[2023-10-13 15:06:58] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-13 15:06:58] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
