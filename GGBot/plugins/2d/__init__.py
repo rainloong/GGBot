@@ -19,7 +19,7 @@ __plugin_meta = PluginMetadata(
 global_config = get_driver().config
 config = Config.parse_obj(global_config)
 
-twoD=on_command("二次元", rule=to_me(), aliases={}, priority=10, block=True)
+twoD=on_command("二次元", aliases={}, priority=10, block=True)
 
 @twoD.handle()
 async def handle_function():

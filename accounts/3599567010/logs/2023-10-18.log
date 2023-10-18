@@ -1,0 +1,151 @@
+[2023-10-18 09:21:18] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-10-18 09:21:18] [WARNING]: no sign server configured 
+[2023-10-18 09:21:18] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:21:39] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:23:37] [WARNING]: no sign server configured 
+[2023-10-18 09:23:37] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:23:38] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:25:12] [WARNING]: no sign server configured 
+[2023-10-18 09:25:12] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:25:12] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:26:54] [WARNING]: no sign server configured 
+[2023-10-18 09:26:54] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:26:55] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:28:18] [WARNING]: no sign server configured 
+[2023-10-18 09:28:18] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:28:19] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:29:34] [WARNING]: no sign server configured 
+[2023-10-18 09:29:34] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:29:35] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:41:24] [WARNING]: no sign server configured 
+[2023-10-18 09:41:24] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:41:24] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:43:22] [WARNING]: no sign server configured 
+[2023-10-18 09:43:22] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:43:23] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:44:35] [WARNING]: no sign server configured 
+[2023-10-18 09:44:35] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:44:36] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:45:52] [WARNING]: no sign server configured 
+[2023-10-18 09:45:52] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:45:52] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:48:28] [WARNING]: no sign server configured 
+[2023-10-18 09:48:28] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:48:29] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:50:29] [WARNING]: no sign server configured 
+[2023-10-18 09:50:29] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:50:30] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:50:56] [WARNING]: 转换消息 [CQ:image,file=https://i.pixiv.re/img-original/img/2022/03/26/01/30/27/97173939_p0.jpg,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: context deadline exceeded (Client.Timeout or context cancellation while reading body). 
+[2023-10-18 09:55:07] [WARNING]: no sign server configured 
+[2023-10-18 09:55:07] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:55:07] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:56:20] [WARNING]: no sign server configured 
+[2023-10-18 09:56:20] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:56:21] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 09:56:29] [WARNING]: 警告: 私聊 1822464299 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-10-18 09:56:29] [WARNING]: 好友消息发送失败: 消息为空. 
+[2023-10-18 09:58:00] [WARNING]: no sign server configured 
+[2023-10-18 09:58:00] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 09:58:00] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 10:13:02] [WARNING]: no sign server configured 
+[2023-10-18 10:13:02] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 10:13:03] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 11:34:36] [WARNING]: no sign server configured 
+[2023-10-18 11:34:36] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 11:34:37] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 12:37:44] [WARNING]: no sign server configured 
+[2023-10-18 12:37:44] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 12:37:45] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 12:40:08] [WARNING]: no sign server configured 
+[2023-10-18 12:40:08] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 12:40:09] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 12:41:15] [WARNING]: 警告: 群 832227842 图片上传失败: image type error: text/html; charset=utf-8 
+[2023-10-18 12:41:15] [WARNING]: 群 832227842 消息发送失败: 消息为空. 
+[2023-10-18 12:45:36] [WARNING]: no sign server configured 
+[2023-10-18 12:45:36] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 12:45:36] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 13:08:53] [WARNING]: no sign server configured 
+[2023-10-18 13:08:53] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 13:08:54] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 13:09:04] [WARNING]: no sign server configured 
+[2023-10-18 13:09:04] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 13:09:05] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 13:14:22] [WARNING]: no sign server configured 
+[2023-10-18 13:14:22] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 13:14:23] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 13:15:33] [WARNING]: 转换消息 [CQ:image,file=https://i.pixiv.re/img-original/img/2021/06/10/14/02/05/90454299_p0.jpg,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: context deadline exceeded (Client.Timeout or context cancellation while reading body). 
+[2023-10-18 15:57:07] [WARNING]: no sign server configured 
+[2023-10-18 15:57:07] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 15:57:08] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 15:57:15] [WARNING]: 检查更新失败！ 
+[2023-10-18 16:01:15] [WARNING]: no sign server configured 
+[2023-10-18 16:01:15] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:01:15] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:06:50] [WARNING]: 转换消息 [CQ:image,file=img/天气.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-10-18 16:10:52] [WARNING]: 转换消息 [CQ:image,file=img/天气.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-10-18 16:11:23] [WARNING]: 转换消息 [CQ:image,file=img/天气.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-10-18 16:13:07] [WARNING]: no sign server configured 
+[2023-10-18 16:13:07] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:13:07] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:13:47] [WARNING]: no sign server configured 
+[2023-10-18 16:13:47] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:13:47] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:13:58] [WARNING]: 转换消息 [CQ:image,file=img/天气.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-10-18 16:25:29] [WARNING]: no sign server configured 
+[2023-10-18 16:25:29] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:25:30] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:25:41] [WARNING]: 转换消息 [CQ:image,file=天气.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-10-18 16:26:01] [WARNING]: no sign server configured 
+[2023-10-18 16:26:01] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:26:02] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:35:19] [WARNING]: no sign server configured 
+[2023-10-18 16:35:19] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:35:20] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:35:33] [WARNING]: no sign server configured 
+[2023-10-18 16:35:33] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:35:33] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:36:14] [WARNING]: no sign server configured 
+[2023-10-18 16:36:14] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:36:14] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:36:19] [WARNING]: 转换消息 [CQ:image,file=D:\Python_project\GGBot\img\天气.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-10-18 16:36:41] [WARNING]: no sign server configured 
+[2023-10-18 16:36:41] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:36:41] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:36:55] [WARNING]: 转换消息 [CQ:image,file=img/天气.png,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: invalid image. 
+[2023-10-18 16:46:39] [WARNING]: no sign server configured 
+[2023-10-18 16:46:39] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:46:40] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:55:09] [WARNING]: no sign server configured 
+[2023-10-18 16:55:09] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 16:55:09] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 16:56:26] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 16:56:55] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 16:57:03] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 16:57:45] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 16:59:21] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:01] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:03] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:03] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:04] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:04] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:04] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:06] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:00:46] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:02:46] [WARNING]: no sign server configured 
+[2023-10-18 17:02:46] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 17:02:46] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 17:03:19] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:04:06] [WARNING]: no sign server configured 
+[2023-10-18 17:04:06] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 17:04:07] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 17:04:33] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 
+[2023-10-18 17:07:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-10-18 17:07:09] [WARNING]: no sign server configured 
+[2023-10-18 17:07:09] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-10-18 17:07:33] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2023-10-18 17:07:33] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-10-18 17:07:36] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-10-18 17:07:36] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-10-18 17:07:36] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10004 
+[2023-10-18 17:08:14] [WARNING]: 转换消息 [CQ:image,file=https://i.pixiv.re/img-original/img/2021/03/12/20/41/23/88396328_p0.jpg,type=,cache=true,proxy=true,timeout=] 到MiraiGo Element时出现错误: context deadline exceeded (Client.Timeout or context cancellation while reading body). 
+[2023-10-18 17:08:19] [WARNING]: 群 832227842 发送消息失败: 账号可能被风控. 

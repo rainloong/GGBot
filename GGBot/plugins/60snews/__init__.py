@@ -15,7 +15,7 @@ __plugin_meta = PluginMetadata(
 global_config = get_driver().config
 config = Config.parse_obj(global_config)
 
-news = on_command("新闻", rule=to_me(), aliases={"news", "60s", "今日新闻"}, priority=10, block=True)
+news = on_command("新闻", aliases={"news", "60s", "今日新闻"}, priority=10, block=True)
 
 @news.handle()
 async def handle_function():
